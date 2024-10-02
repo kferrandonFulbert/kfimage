@@ -1,0 +1,10 @@
+D:\Csharp\kfImage\kfImage\bin\Debug\kfImage.exe.config
+D:\Csharp\kfImage\kfImage\bin\Debug\kfImage.exe
+D:\Csharp\kfImage\kfImage\bin\Debug\kfImage.pdb
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.csproj.AssemblyReference.cache
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.fenImage.resources
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.Properties.Resources.resources
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.csproj.GenerateResource.cache
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.csproj.CoreCompileInputs.cache
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.exe
+D:\Csharp\kfImage\kfImage\obj\Debug\kfImage.pdb
